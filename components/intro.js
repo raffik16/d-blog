@@ -4,9 +4,9 @@ export default function Intro() {
       <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
         🌞
       </h1>
-      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
+      <h2 className="text-center md:text-left text-lg mt-5 md:pl-8">
         Somewhere In The Middle.
-      </h4>
+      </h2>
     </section>
   )
 }
